@@ -37,3 +37,6 @@ export default App2
 // ---- item-list
 
 // Tag vazia em React se chama Fragment ou Fragmento
+
+
+// Spread operator = ... -> cópia de um array ou obj
